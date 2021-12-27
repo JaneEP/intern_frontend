@@ -1,0 +1,17 @@
+.authorization {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  align-self: center;
+  margin-top: 30px;
+}
+.authorization__header {
+  /* font-weight: bold; */
+  font-size: 150%;
+  color: #4169e1;
+}
+
